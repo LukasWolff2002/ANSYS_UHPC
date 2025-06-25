@@ -2,7 +2,10 @@ print("helo word")
 print("Lukas wekito")
 
 def sumar():
-    pass
+    a = 2
+    b = 3
+    return a + b
+    
 
 def restar():
     pass
