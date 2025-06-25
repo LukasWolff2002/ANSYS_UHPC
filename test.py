@@ -6,8 +6,8 @@ def sumar(a, b):
 def restar(a, b):
     return a - b
 
-def multiplicar():
-    pass
+def multiplicar(a, b):
+    return a * b
 
-def dividir():
-    pass
+def dividir(a, b):
+    return a / b
