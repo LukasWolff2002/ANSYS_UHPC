@@ -1,11 +1,10 @@
 print("helo word")
-print("Lukas wekito")
 
-def sumar():
-    pass
+def sumar(a, b):
+    return a+ b
 
-def restar():
-    pass
+def restar(a, b):
+    return a - b
 
 def multiplicar():
     pass
