@@ -137,4 +137,3 @@ vUnion[] = BooleanUnion{
 Physical Volume("Liquido") = {vUnion[0]};
 
 Mesh 3;
-Save "malla_fluent.msh";
