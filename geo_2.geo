@@ -135,3 +135,6 @@ vUnion[] = BooleanUnion{
 // (9) Grupo físico del líquido
 //-----------------------------------------
 Physical Volume("Liquido") = {vUnion[0]};
+
+Mesh 3;
+Save "malla_fluent.msh";
